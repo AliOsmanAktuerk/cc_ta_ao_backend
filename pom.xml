@@ -10,7 +10,7 @@
     </parent>
     <groupId>de.aktuerk.brothers</groupId>
     <artifactId>cuc_ta_allaince_manager</artifactId>
-    <version>0.4.0</version>
+    <version>0.5.0</version>
     <name>cuc_ta_allaince_manager</name>
     <description>cuc_ta_allaince_manager</description>
     <url/>
